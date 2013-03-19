@@ -1,0 +1,18 @@
+{
+  "name": "glb",
+  "version": "0.0.1",
+  "description": "Empty module, useful for sharing globals among your submodules.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yazgazan/glb.git"
+  },
+  "homepage": "https://github.com/yazgazan/glb",
+  "keywords": [
+    "empty",
+    "globals"
+  ],
+  "author": "yazgazan@gmail.com",
+  "license": "LGPLv3",
+  "dependencies": {}
+}
