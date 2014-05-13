@@ -1,11 +1,11 @@
 glb
 ===
 
-Empty module, useful for sharing globals among your sub-modules.
+Empty module, useful for sharing globals across your sub-modules.
 
 # Install
 
-```
+```bash
 npm install glb
 ```
 
